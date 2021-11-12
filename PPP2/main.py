@@ -1,3 +1,4 @@
+#Integrantes: Vocente Delgado, Thomas Pinda, Guillermo Ojeda, Camilo Lovera
 import pygame
 from pygame.locals import *
 from Personaje import Personaje
